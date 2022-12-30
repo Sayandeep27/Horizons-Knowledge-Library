@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Horizons-Knowledge-Library/static/css/main.076ad153.css",
+    "main.js": "/Horizons-Knowledge-Library/static/js/main.96776e7a.js",
+    "index.html": "/Horizons-Knowledge-Library/index.html",
+    "main.076ad153.css.map": "/Horizons-Knowledge-Library/static/css/main.076ad153.css.map",
+    "main.96776e7a.js.map": "/Horizons-Knowledge-Library/static/js/main.96776e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.076ad153.css",
+    "static/js/main.96776e7a.js"
+  ]
+}
